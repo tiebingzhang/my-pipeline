@@ -1,2 +1,2 @@
 # my-pipeline
-A example CDK Pipeline
+An example CDK Pipeline
